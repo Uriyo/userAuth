@@ -7,7 +7,7 @@ info:
     "password":"abc@123"
     
 servers:
-  - url: http://localhost:3000/api
+  - url: https://userauth-vmdo.onrender.com/api
 paths:
   /auth/signup:
     post:
